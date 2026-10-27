@@ -1,0 +1,30 @@
+[
+  {
+    "id": "L100",
+    "cluster": "c28 认知诚实",
+    "name": "无源数字拦截",
+    "dir": "L100-unsourced-number-gate",
+    "loc": 52
+  },
+  {
+    "id": "L101",
+    "cluster": "c28 认知诚实",
+    "name": "绝对化红灯",
+    "dir": "L101-absolutization-redlight",
+    "loc": 45
+  },
+  {
+    "id": "L102",
+    "cluster": "c28 认知诚实",
+    "name": "负对照强制",
+    "dir": "L102-negative-control-mandatory",
+    "loc": 48
+  },
+  {
+    "id": "L103",
+    "cluster": "c28 认知诚实",
+    "name": "可证伪化",
+    "dir": "L103-falsifiability-check",
+    "loc": 38
+  }
+]
